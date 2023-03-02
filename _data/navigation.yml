@@ -11,20 +11,18 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
+    - title: "About Me"
+      section: About Me
+    - title: "Projects"
+      section: projects
     - title: "Services"
       section: services
-    - title: "Portfolio"
-      section: portfolio
-    - title: "About"
-      section: about
     - title: "Timeline"
       section: timeline
-    - title: "Team"
-      section: team
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Resume"
+      url: https://docs.google.com/document/d/1gFs8A2JAxePSpypNYTQlAOdju6C7wgLM/edit?usp=sharing&ouid=116069662928533890851&rtpof=true&sd=true
 en-US:
   <<: *DEFAULT_EN
 en-CA:
