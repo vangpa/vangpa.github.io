@@ -14,10 +14,10 @@ en: &DEFAULT_EN
     title: Welcome to our Studio!
     text: It's Nice To Meet You
     button: Learn more about me
-    buttonlink: "#About me"
+    buttonlink: "#about me"
 
-  services:
-    title: "Services"
+  about me:
+    title: "about me"
     text: "Lorem ipsum"
     section: services
     list:
@@ -27,11 +27,8 @@ en: &DEFAULT_EN
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
 
-  portfolio:
+  projects:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
