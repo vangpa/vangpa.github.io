@@ -17,8 +17,8 @@ en: &DEFAULT_EN
       section: projects
     - title: "Services"
       section: services
-    - title: "Timeline"
-      section: timeline
+    - title: "Career Journey"
+      section: career journey
     - title: "Contact"
       section: contact
     - title: "Resume"
