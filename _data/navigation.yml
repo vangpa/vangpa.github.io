@@ -15,8 +15,6 @@ en: &DEFAULT_EN
       section: About Me
     - title: "Projects"
       section: projects
-    - title: "Services"
-      section: services
     - title: "Career Journey"
       section: career journey
     - title: "Contact"
