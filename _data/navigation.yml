@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "About Me"
-      section: About Me
+    - title: "intro"
+      section: intro
     - title: "Projects"
       section: projects
-    - title: "Career Journey"
-      section: career journey
-    - title: "Contact"
+    - title: "journey"
+      section: journey
+    - title: "contact"
       section: contact
-    - title: "Resume"
+    - title: "resume"
       url: https://docs.google.com/document/d/1gFs8A2JAxePSpypNYTQlAOdju6C7wgLM/edit?usp=sharing&ouid=116069662928533890851&rtpof=true&sd=true
 en-US:
   <<: *DEFAULT_EN
