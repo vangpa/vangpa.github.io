@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Hi, my name is Pa Xiong Vang. You can call me, Pa.
-    text: Data Analyst/Scientist. Data Analytics Consultant. Business Intellignce Engineer. Data is my love language.
+    text: Data is my love language
     button: Learn more about me
     buttonlink: "#intro"
 
